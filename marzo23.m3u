@@ -23,11 +23,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:-1 group-title="NACIONAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 
-#EXTINF:-1 xui-id="229221" tvg-id="" tvg-name="MX| Las Estrellas FHD" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" group-title="NACIONAL" Las Estrellas FHD
+#EXTINF:-1 xui-id="229221" tvg-id="" tvg-name="MX| Las Estrellas FHD" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" group-title="▶MEXICO",MX| Las Estrellas FHD
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0PT9r_eBz7BIQQp0IXDJAdg/ts
-
-#EXTINF:-1 xui-id="2014" tvg-id="XEW" tvg-name="MX : Las estrellas HD" tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD-_oZ3SWd97pQhskQQdkCfwI_dqIehuCCA7wq-sK4oRjg7H9zo0z4X73BzworVbtquaf1QvIFIcUi8okBuYf-w.png" group-title="NACIONAL",MX : Las estrellas HD
+#EXTINF:-1 xui-id="2014" tvg-id="XEW" tvg-name="MX : Las estrellas HD" tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD-_oZ3SWd97pQhskQQdkCfwI_dqIehuCCA7wq-sK4oRjg7H9zo0z4X73BzworVbtquaf1QvIFIcUi8okBuYf-w.png" group-title="▶MEXICO",MX : Las estrellas HD
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0EB9oYw6oMF-yn9jbls2c8s/ts
-
-#EXTINF:-1 xui-id="198" tvg-id="CESTREL" tvg-name="ETR: Canal de las Estrellas SD" tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD-_oZ3SWd97pQhskQQdkCfwI_dqIehuCCA7wq-sK4oRjg7H9zo0z4X73BzworVbtquaf1QvIFIcUi8okBuYf-w.png" group-title="NACIONAL",ETR: Canal de las Estrellas SD
+#EXTINF:-1 xui-id="229220" tvg-id="" tvg-name="MX| Las Estrellas -2 hrs" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" group-title="▶MEXICO",MX| Las Estrellas -2 hrs
+http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Pz0t_DqsJj3BrjCDdWJLG8/ts
+#EXTINF:-1 xui-id="198" tvg-id="CESTREL" tvg-name="ETR: Canal de las Estrellas SD" tvg-logo="http://kaoztv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD-_oZ3SWd97pQhskQQdkCfwI_dqIehuCCA7wq-sK4oRjg7H9zo0z4X73BzworVbtquaf1QvIFIcUi8okBuYf-w.png" group-title="▶MEXICO",ETR: Canal de las Estrellas SD
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0BBZOsPn3p6d5mcpfqwvB3g/ts
