@@ -17,15 +17,6 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NACIONAL MEXICO"tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png", ESTRELLAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 
-#EXTINF:-1 xui-id="229221" tvg-id="" tvg-name="MX| Las Estrellas FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="NACIONAL MEXICO", LAS ESTRELLAS FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0PT9r_eBz7BIQQp0IXDJAdg/ts
-
-#EXTINF:-1 xui-id="2014" tvg-id="XEW" tvg-name="MX : Las estrellas HD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="NACIONAL MEXICO", LAS ESTRELLAS HD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0EB9oYw6oMF-yn9jbls2c8s/ts
-
-#EXTINF:-1 xui-id="198" tvg-id="CESTREL" tvg-name="ETR: Canal de las Estrellas SD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="NACIONAL MEXICO", LAS ESTRELLAS SD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0BBZOsPn3p6d5mcpfqwvB3g/ts
-
 #EXTINF:-1 group-title="NACIONAL MEXICO"tvg-logo="https://i.imgur.com/jJ6v5ea.png", CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 
