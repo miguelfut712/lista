@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1,MEX - AZ CINEMA
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/2954
+#EXTINF:-1,MEX - AZ MUNDO
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3087
+#EXTINF:-1,MEX - MEXIQUENSE
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3182
+#EXTINF:-1,MEX - PROYECTO 40 FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3185
+#EXTINF:-1,MEX - DISTRITO COMEDIA
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3209
+#EXTINF:-1,MEX - AZTECA 7
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3215
+#EXTINF:-1,MEX - AZTECA UNO
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3216
+#EXTINF:-1,MEX - UNICABLE
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3230
+#EXTINF:-1,MEX - MILENIO TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3233
+#EXTINF:-1,MEX - CANAL DE LAS ESTRELLAS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3243
+#EXTINF:-1,MEX - CANAL 5
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3244
+#EXTINF:-1,MEX - AZ CLICK
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3245
+#EXTINF:-1,MEX - CANAL ONCE
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3269
+#EXTINF:-1,MEX - TUDN HD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3397
+#EXTINF:-1,MEX - IMAGEN RADIO
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3594
+#EXTINF:-1,MEX - ADN 40
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4025
+#EXTINF:-1,MEX - AZ CORAZON
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4026
+#EXTINF:-1,MEX - AZTECA 7 FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4027
+#EXTINF:-1,MEX - CANAL 5 FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4028
+#EXTINF:-1,MEX - FORO TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4029
+#EXTINF:-1,MEX - EL CANAL DE LAS ESTRELLAS HD
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:-1,MEX - GALA TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4031
+#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4033
+#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY PLUS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4034
+#EXTINF:-1,MEX - ONCE TV FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4035
+#EXTINF:-1,MEX - TELEFORMULA FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4036
+#EXTINF:-1,MEX - UNICABLE FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4052
+#EXTINF:-1,MEX - AZ MUNDO FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4055
+#EXTINF:-1,MEX - TELEVISA MTY
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4066
+#EXTINF:-1,MEX - AZ CINEMA FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4086
+#EXTINF:-1,MEX - AZTECA UNO HD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4087
+#EXTINF:-1,MEX - TVC
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4105
+#EXTINF:-1,MEX - UNO MVS TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/6022
+#EXTINF:-1,MEX - AFIZZIONADOS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/8248
+#EXTINF:-1,MX - TV UNAM
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/18574
+#EXTINF:-1,MEX - INGENIO TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33358
+#EXTINF:-1,MEX - HAVOC
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33362
+#EXTINF:-1,MEX - TV MAS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33365
+#EXTINF:-1,MEX - TV4
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33367
+#EXTINF:-1,MEX - ONCE TV NIÑOS Y NIÑAS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/47697
 #EXTINF:-1,CINE - AMC
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4118
 #EXTINF:-1,CINE - CINE LATINO
@@ -310,86 +390,6 @@ http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/8145
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/8146
 #EXTINF:-1,CINP - RETROPLEX HD
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/8147
-#EXTINF:-1,MEX - AZ CINEMA
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/2954
-#EXTINF:-1,MEX - AZ MUNDO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3087
-#EXTINF:-1,MEX - MEXIQUENSE
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3182
-#EXTINF:-1,MEX - PROYECTO 40 FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3185
-#EXTINF:-1,MEX - DISTRITO COMEDIA
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3209
-#EXTINF:-1,MEX - AZTECA 7
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3215
-#EXTINF:-1,MEX - AZTECA UNO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3216
-#EXTINF:-1,MEX - UNICABLE
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3230
-#EXTINF:-1,MEX - MILENIO TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3233
-#EXTINF:-1,MEX - CANAL DE LAS ESTRELLAS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3243
-#EXTINF:-1,MEX - CANAL 5
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3244
-#EXTINF:-1,MEX - AZ CLICK
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3245
-#EXTINF:-1,MEX - CANAL ONCE
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3269
-#EXTINF:-1,MEX - TUDN HD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3397
-#EXTINF:-1,MEX - IMAGEN RADIO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3594
-#EXTINF:-1,MEX - ADN 40
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4025
-#EXTINF:-1,MEX - AZ CORAZON
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4026
-#EXTINF:-1,MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4027
-#EXTINF:-1,MEX - CANAL 5 FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4028
-#EXTINF:-1,MEX - FORO TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4029
-#EXTINF:-1,MEX - EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4030
-#EXTINF:-1,MEX - GALA TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4031
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4033
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4034
-#EXTINF:-1,MEX - ONCE TV FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4035
-#EXTINF:-1,MEX - TELEFORMULA FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4036
-#EXTINF:-1,MEX - UNICABLE FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4052
-#EXTINF:-1,MEX - AZ MUNDO FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4055
-#EXTINF:-1,MEX - TELEVISA MTY
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4066
-#EXTINF:-1,MEX - AZ CINEMA FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4086
-#EXTINF:-1,MEX - AZTECA UNO HD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4087
-#EXTINF:-1,MEX - TVC
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4105
-#EXTINF:-1,MEX - UNO MVS TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/6022
-#EXTINF:-1,MEX - AFIZZIONADOS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/8248
-#EXTINF:-1,MX - TV UNAM
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/18574
-#EXTINF:-1,MEX - INGENIO TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33358
-#EXTINF:-1,MEX - HAVOC
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33362
-#EXTINF:-1,MEX - TV MAS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33365
-#EXTINF:-1,MEX - TV4
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33367
-#EXTINF:-1,MEX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/47697
 #EXTINF:-1,MX - TUDN MX FHD
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1105665
 #EXTINF:-1,MX- IMAGEN TV FHD
