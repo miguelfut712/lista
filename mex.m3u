@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,MEX - ESTRELLAS SD
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:-1,MEX - CANAL 5 FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4028
+#EXTINF:-1,MEX - AZTECA 7 FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4027
+#EXTINF:-1,MEX - AZTECA UNO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:-1,MEX - IMAGEN TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4149
+#EXTINF:-1,MEX- IMAGEN TV FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1124600
+#EXTINF:-1,MEX - UNIVISION
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/88390
+#EXTINF:-1,MEX - TL TELENOVELAS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4130
+#EXTINF:-1,MEX - ADN 40
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4025
+#EXTINF:-1,MEX - AZ CORAZON
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4026
+#EXTINF:-1,MEX - FORO TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4029
+#EXTINF:-1,MEX - GALA TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4031
+#EXTINF:-1,MEX - TELEFORMULA
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4129
+#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4033
+#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY PLUS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4034
+#EXTINF:-1,MEX - ONCE TV FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4035
+#EXTINF:-1,MEX - AZ MUNDO FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4055
+#EXTINF:-1,MEX - TELEVISA MTY
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4066
+#EXTINF:-1,MEX - AZ CINEMA FHD
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4086
+#EXTINF:-1,MEX - TVC
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4105
+#EXTINF:-1,MEX - UNO MVS TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/6022
+#EXTINF:-1,MEX - NU9VE
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1,MEX - INGENIO TV
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33358
+#EXTINF:-1,MEX - TELEFORMULA
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1,MEX - TV MAS
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33365
+#EXTINF:-1,MEX - TV4
+http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/33367
+#EXTINF:-1,MEX - ONCE TV NIÑOS Y NIÑAS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
