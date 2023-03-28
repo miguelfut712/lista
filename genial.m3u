@@ -13,7 +13,7 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?Playlis
 #EXTINF:-1 group-title="LOCAL MICHOACAN"tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg", SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
-#EXTINF:-1, group-title="NACIONALES MEXICO"tvg-logo="https://i.ytimg.com/vi/uPi2nTIpWZc/maxresdefault.jpg" CANALES MEXICO
+#EXTINF:-1, group-title="NACIONALES MEXICO"tvg-logo="https://i.ytimg.com/vi/uPi2nTIpWZc/maxresdefault.jpg", CANALES MEXICO
 #EXTINF:-1,MEX - ADN 40
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4025
 #EXTINF:-1,MEX - AZ CORAZON
