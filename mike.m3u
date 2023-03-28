@@ -13,9 +13,7 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?Playlis
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MEX - ESTRELLAS 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:-1,MEX - ESTRELLAS OPCION 2
-http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/75067
-#EXTINF:-1,MEX - ESTRELLAS OPCION 3 
+#EXTINF:-1,MEX - ESTRELLAS DIFERENTE 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1,MEX - TL TELENOVELAS
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4130
