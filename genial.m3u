@@ -2,6 +2,10 @@
 #EXTINF:-1,PELICULA - LA ELEFANTA DEL MAGO
 http://45.179.164.59:8181/Peliculas/La.elefanta.del.mago.2023.720p-dual-lat.mkv
 #EXTINF:-1,PELICULA - EL OSO VICIOSO
+#EXTINF:-1 group-title="LOCAL MICHOACAN"tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png", TMT MRORELIA
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="LOCAL MICHOACAN"tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg", SMRTV
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 https://www.cinedds.online/stuff/oso.mp4
 #EXTINF:-1,MEX - ADN 40
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4025
