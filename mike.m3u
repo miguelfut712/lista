@@ -10,43 +10,39 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:-1,MEX - ESTRELLAS DIFERENTE 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1,MEX - TL TELENOVELAS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4130
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:-1,MEX - ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MEX - CANAL 5 FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4028
-#EXTINF:-1,MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4027
-#EXTINF:-1,MEX - AZTECA 7 OPCION 2
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:-1,MEX - AZTECA 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1,MEX - AZTECA UNO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 #EXTINF:-1,MEX - AZTECA UNO OPCION 2
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4087
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 #EXTINF:-1,MEX - IMAGEN TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4149
-#EXTINF:-1,MEX- IMAGEN TV FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1124600
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 #EXTINF:-1,MEX - UNIVISION
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/88390
 #EXTINF:-1,MEX - FORO TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4029
-#EXTINF:-1,MEX - GALA TV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4031
+https://channel02-notusa.akamaized.net:443/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1,MEX - NU3VE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1,MEX - TELEFORMULA
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4129
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1,NOT - MILENIO NOTICIAS
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1,LD - TUDN MX FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1105665
-#EXTINF:-1,LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3751
-#EXTINF:-1,LD - UNIVISION DEPORTES FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3962
-#EXTINF:-1,LD - TUDN FHD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3963
-#EXTINF:-1,LD - UNIVISION TUDN HD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4117
+http://857778922306244790.opword.xyz:80/play/vi0105248/bM$6EUuUuSeh/244790.ts
+#EXTINF:-1,LD - AFFIZZIONADOS
+http://tv.nousiptv.com:8080/k3streams/hYT9S77Szq225/8248
+#EXTINF:-1,LD - CLARO SPORTS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE03.m3u8
+#EXTINF:-1,LD - ESPN 1 MX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1,LD - TNT SPORTS
+http://tv.nousiptv.com:8080/k3streams/hYT9S77Szq225/16138
 #EXTINF:-1,MUS - TELEHIT URBANO
 http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3960
 #EXTINF:-1,MUS - TELEHIT
