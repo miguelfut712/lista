@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,PELICULA - COMO CAIDO DEL CIELO
+http://51.81.208.167/gmovie/mexicana/Como.Caido.Del.Cielo.2019..HD.Latino.1080p.mkv
+#EXTINF:-1,PELICULA - MARIO BROS
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 #EXTINF:-1,PELICULA - VIVIENDO JUNTOS
 http://144.217.180.205/Peliculas/Comedia/Viviendo%20juntos%20(2022).1080p.dual-lat.cinecalidad.run.mp4
 #EXTINF:-1,MICHOACAN - TMT MRORELIA
@@ -43,39 +47,3 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1,LD - TNT SPORTS
 http://tv.nousiptv.com:8080/k3streams/hYT9S77Szq225/16138
-#EXTINF:-1,MUS - TELEHIT URBANO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3960
-#EXTINF:-1,MUS - TELEHIT
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3064
-#EXTINF:-1,MUS - MTV LIVE
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3072
-#EXTINF:-1,MUS - MTV HITS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3191
-#EXTINF:-1,MUS - MTV LATINO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/3192
-#EXTINF:-1,MUS - VH1 CLASSIC
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/4133
-#EXTINF:-1,MUS - M6 MUSIC
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/7823
-#EXTINF:-1,MUS - HTV
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/51395
-#EXTINF:-1,MUS - 24/7 RETRO PLUS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1116297
-#EXTINF:-1,MUS - 24/7 ZAPPING MUSIC
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1116298
-#EXTINF:-1,MUS -  LATINA
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1116300
-#EXTINF:-1,24/7 EL CHAVO DEL OCHO
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/18576
-#EXTINF:-1,24/7 LOS PICAPIEDRA
-http://51.81.208.167/gmedia/24.7/los.pica.piedras.1.mp4
-#EXTINF:-1,24/7 - GARFIELD
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/18577
-#EXTINF:-1,24/7 - LOONEY TUNES
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/29409
-#EXTINF:-1,24/7 - CINEMA MARVEL
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/44728
-#EXTINF:-1,24/7 - TOM Y JERRY
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/46490
-#EXTINF:-1, 24/7 - CANTINFLAS
-http://tv.nousiptv.com:8080/mitv/wAqfqtdguy/1151756
