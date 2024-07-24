@@ -6,20 +6,17 @@ https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 group-title="NACIONAL MEXICO", LAS ESTRELLAS 
 http://xcm.budtv-ultra.com:25461/bud-1084372/5a540813b9/127052
 
+#EXTINF:-1 group-title="NACIONAL MEXICO", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 #EXTINF:-1 group-title="NACIONAL MEXICO", TELENOVELAS
 http://xcm.budtv-ultra.com:25461/bud-1084372/5a540813b9/159095
-
-#EXTINF:-1 group-title="NACIONAL MEXICO", ESTRELLA TV 
-https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONAL MEXICO", CANAL 5 
 http://xcm.budtv-ultra.com:25461/bud-1084372/5a540813b9/162992
 
 #EXTINF:-1 group-title="NACIONAL MEXICO", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 group-title="NACIONAL MEXICO", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 group-title="NACIONAL MEXICO", IMAGEN TV
 http://xcm.budtv-ultra.com:25461/bud-1084372/5a540813b9/180501
@@ -29,3 +26,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 group-title="NACIONAL MEXICO", MILENIO NOTICIAS
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 group-title="NACIONAL MEXICO", ESTRELLA TV 
+https://estrellatv-roku.amagi.tv/playlist.m3u8
